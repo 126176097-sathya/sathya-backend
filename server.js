@@ -65,4 +65,4 @@ app.get("/", (req, res) => {
 
 // ✅ START SERVER
 const PORT = 5000;
-app.listen(PORT, () => console.log(`Server running on https://sathya-backend.onrender.com:${PORT}`));
+app.listen(PORT, () => console.log(`Server running on http://localhost:${PORT}`));
